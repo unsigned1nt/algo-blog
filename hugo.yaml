@@ -1,6 +1,6 @@
 baseURL: https://unsigned1nt.github.io/
 languageCode: pl
-title: Algorithmic Notes
+title: Algo-Notes
 
 caches:
   images:
